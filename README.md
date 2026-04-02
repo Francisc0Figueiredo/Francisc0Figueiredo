@@ -1,8 +1,7 @@
-<h2 align="left">Hi 👋! My name is Francisco and I'm a Backend Developer, from Portugal.</h2>
 
 ###
 
-<p align="left">Driven and focused Developer with a strong foundation in software<br>development, artificial intelligence, and systems administration.<br>Passionate about building scalable and efficient backend. Demonstrated experience in project<br>management and teamwork through academic and extracurricular<br>projects. Eager to contribute in high-performing tech environments.</p>
+<p align="left">Driven and focused Full-Stack Developer with a robust foundation in software architecture, requirements engineering, and technical specifications. Passionate about designing and building scalable, end-to-end systems that bridge highly efficient back-ends with intuitive front-end design. Skilled at stakeholder alignment, adept at translating complex needs into defined Quality Attributes and adaptable software architectures. Leverages additional expertise in Natural Language Processing (NLP), systems administration, and a strong background in performing arts to deliver comprehensive solutions with excellent cross-functional teamwork and communication</p>
 
 ###
 
